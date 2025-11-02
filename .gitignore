@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.pyc
+*.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data - Ignore image files and large CSVs
+data/images/
+*.jpg
+*.jpeg
+*.png
+data/*.csv
+
+# Allow tracking of the split files, but not other data files
+!data/train.csv
+!data/val.csv
+!data/test.csv
+!data/metadata.csv
+
+# Model Checkpoints - Ignore the large model files
+checkpoints/*.pth
+checkpoints/*.pt
+
+# Results - Ignore generated plots and predictions
+results/*.png
+results/*.csv
+
+# OS-specific
+.DS_Store
+
