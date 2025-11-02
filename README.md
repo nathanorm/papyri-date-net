@@ -1,13 +1,12 @@
-
 # PapyrusDateNet
 
 A project to predict the date of ancient papyri from images using deep learning.
 
-## 🚀 Project Goal
+##  Goals
 
 ...
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1.  Clone the repository:
     ```bash
@@ -21,14 +20,14 @@ A project to predict the date of ancient papyri from images using deep learning.
     pip install -r requirements.txt
     ```
 
-## 🏃‍♀️ How to Run
+##  How to Run
 
 1.  Place data in the `data/images/` folder.
 2.  Create `data/metadata.csv`.
 3.  Run the `notebooks/00_data_exploration.ipynb` to split the data.
 4.  Run the `notebooks/02_model_training.ipynb` to train the model.
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 papyri-date-net/
@@ -40,3 +39,12 @@ papyri-date-net/
 └── docs/           # Detailed documentation
 ```
 
+
+## Data Setup
+
+**This repository does not include the data YET.** 
+
+1.  Add all your papyrus images to the `data/images/` directory.
+2.  Create a `data/metadata.csv` file that lists your images and their corresponding dates.
+
+For the exact format required, please see the detailed instructions in `data/README.md`.
