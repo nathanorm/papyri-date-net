@@ -1,0 +1,11 @@
+author_link,papyrus_id,papyrus_date,papyrus_lang,papyrus_images,papyrus_candidate,date_after,date_before,author_name,author_date_after,author_date_before,date_delta,inspect
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Achilles%20Tatius,p.oxy 10 1250,200 CE - 299 CE,grc,Img (ext.),1,200,299,Achilles Tatius,100,170,30,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Achilles%20Tatius,p.oxy 56 3836,100 CE - 150 CE,grc,Img (ext.),1,100,150,Achilles Tatius,100,170,-70,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Achilles%20Tatius,p.oxy 56 3837,200 CE - 299 CE,grc,Img (ext.),1,200,299,Achilles Tatius,100,170,30,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Achilles%20Tatius,p.oxy 73 4948,200 CE - 299 CE,grc,Img (ext.),1,200,299,Achilles Tatius,100,170,30,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Achilles%20Tatius,tm 58911,200 CE - 250 CE,grc,Img (ext.),1,200,250,Achilles Tatius,100,170,30,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Achilles%20Tatius,tm 58913,200 CE - 299 CE,grc,Img (ext.),1,200,299,Achilles Tatius,100,170,30,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Aelius%20Aristides,p.oxy 72 4854,175 CE - 325 CE,grc,Img (ext.),1,175,325,Aelius Aristides,117,181,-6,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Aeschylus,p.heid 1 186,300 BCE - 100 BCE,grc,Img (ext.),1,-300,-100,Aeschylus,-525,-456,156,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Alcaeus%20of%20Messene,p.tebt 1 3,100 BCE - 1 BCE,grc,"Img, Img (ext.)",1,-100,-1,Alcaeus of Messene,-220,-180,80,1
+https://papyri.info/search?DATE_MODE=LOOSE&DOCS_PER_PAGE=999&AUTHOR=Alcidamas,p.petr 1 25 1,250 BCE - 201 BCE,grc,Img (ext.),1,-250,-201,Alcidamas,-400,-350,100,1
